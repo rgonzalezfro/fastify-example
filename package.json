@@ -1,0 +1,16 @@
+{
+  "name": "fastify-training",
+  "version": "1.0.0",
+  "description": "Traning project with fastify",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node ./out/server.js"
+  },
+  "author": "Rafael Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.14.6",
+    "fastify": "^3.7.0"
+  }
+}
